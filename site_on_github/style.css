@@ -1,0 +1,35 @@
+.header{
+  background-color: black;
+  
+}
+.title-head{
+  color:antiquewhite;
+  font-size: 24px;
+  margin-left: 120px;
+}
+.title-body{
+margin-left: 25px;
+margin-top: 25px;
+  
+}
+.body-images{
+  
+  width: 550px;
+  height: 320px;
+}
+p{
+  font-size: 18px;
+}
+.rak{
+  width: 550px;
+  height: 320px;
+  
+}
+.foot{
+  background-color: black;
+}
+.zoz{
+  color:aliceblue;
+  margin: 35px;
+  font-size: 23px;
+}
